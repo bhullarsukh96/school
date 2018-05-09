@@ -1,2 +1,2 @@
 print ("hello python")
-printf ("hi student you made a very bad code)
+print ("hi student you made a very bad code")
